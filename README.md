@@ -10,6 +10,8 @@ Three hypothesis tests are performed with T-test for the means of two independen
 3.    Women 5km 2011 vs Men 5km 2011
 
 The null hypothesis is that the averge time are equal and alternative hypothesis is that they are not equal.
+The hypothesis calculation have been performed with python package `scipy.stats` and compared with handbook calculation to get a better understanding how the package works.
+P-value and confidence intervall have been used to evaluate the hypothesis.
 
 
 
