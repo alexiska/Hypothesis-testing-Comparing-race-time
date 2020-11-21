@@ -1,0 +1,721 @@
+Pos,Name,Born,Club,Time
+1,Nicklas  Källmén,,KFUM Örebro,17:26
+2,Jimmy  Eriksson,,Atlas Copco Prestigelösa,18:15
+3,Andreas  Andersson,1981,Örebro,18:22
+4,Anonym,,Anonym,18:29
+5,Sebastian  TORSTENSSON,1991,Kopparberg,18:41
+6,Daniel  Frehde,,Karlslunds IF,18:49
+7,Ole  Kling,1969,Järna,19:09
+8,Kent  Davidsson,1974,Emhart Glass Sweden AB,19:25
+9,Simon  Chamoun,1996,Örebro Sotarn 1,19:53
+10,William  Olsson,1996,Örebro Sotarn 1,19:58
+11,Tomas  Särnholm,,ÖLL Lag 23 Med Tek,19:59
+12,Krister  Romedahl,,IF Spartacus,20:05
+13,Håkan  Andersson,1982,Lesjöfors Jogging,20:08
+14,Kristian  Dyrvik,1980,Activa,20:18
+15,mikael  hansson,1963,örebro,20:24
+16,Andreas  Sandvall,,Atlas Copco Matarlöpare,20:25
+17,Robin  Svensson,1986,Handelskamraterna,20:28
+18,Samuel  Spjut,,,20:35
+19,Oscar  Östebo,1996,Örebro,20:39
+20,Fredrick  Djupström,1968,Tysslinge runners,20:46
+21,Martin  Ekman,,Arbetsförmedlingen 1,20:53
+22,Magnus  Wistrand,1982,Örebro,20:54
+23,Martin  Haraldsson,,Adolfsberg Vårdcentral 2,20:56
+24,Niklas  Karlsson,1967,Örebro,21:04
+25,Mats  Brodin,,DHL Fritid,21:15
+26,Niclas  Nilsson,,Sigma IT Runners 3,21:19
+27,David  Forslund,1996,Örebro Sotarn 1,21:20
+28,Daniel  Eriksson,,Atlas Copco DC Runners 2,21:23
+29,Daniel  Marken,1976,Ögonkliniken 3,21:24
+30,niclas  windhal,1966,nora,21:26
+31,Martin  Lundvall,,Capio Cårdcentral Lekeberg 1,21:26
+32,Mats-Olov  Halvardsson,1965,Vintrosa,21:27
+33,Robert  Larsson,,VAP3,21:29
+34,Anders  Bergh,,Cambrex 6,21:30
+35,Jonathan  Johnsson,2002,Örebro,21:38
+36,William  Olsson,1996,Örebro Sotarn 1,21:40
+37,Magnus  Wallgren,,Atlas Copco Prestigelösa,21:41
+38,Caroline  Eriksson,,VAP2,21:42
+39,Erik  Borg,,Atlas Copco Batlas Bopco 2,21:44
+40,Joakim  Karlsson,1984,Örebro,21:46
+41,Per  Winbladh,1963,"Relacom AB, Örebro (Lag 1)",21:51
+42,Per  Winbladh,63,,21:52
+43,Martin  Peilot,,ÖLL Lag 26 Park1,21:52
+44,Joakim  Kinnander,1995,Kusinerna Lanna/Skogaholm,21:54
+45,David  Byrén,1993,Örebro,21:54
+46,Per-Åke  Pertoft,1968,E.ON Gnistan lag 2,21:55
+47,Erik  Matteusson,1987,Örebro,21:56
+48,Aron  Berkestam Drysén,,KSK,21:57
+49,Tomas  Almnor,,ÖBO Runners 7,22:00
+50,Viktor  Bergman,,Kumla,22:05
+51,Per-Ola  Andersson,,Cambrex 8,22:06
+52,Jonas  Widén,1970,Orbion Consulting Lag 2,22:06
+53,Stefan  Eriksson,,Schenker 2,22:07
+54,Erik  Prytz,,Atlas Copco UTMS,22:09
+55,Anders  Greus,1961,Örebro,22:11
+56,Anton  Östebo,1996,Örebro,22:12
+57,Kristian  Landmark,,ÖLL Lag 35 Kundtjänst,22:19
+58,Fredrik  Landén,1971,SAAB Arboga5,22:22
+59,Jörgen  Andersson,,Atlas Copco D-flödet,22:25
+60,Anders  Korsvall,,SiteVision lag 1,22:29
+61,Tobias  Bern,,Killevigge 1,22:31
+62,Markus  Lagerqvist,84,,22:31
+63,Anders  Nyquist,,SKV lag 7,22:32
+64,Andreas  Führ,1998,Örebro,22:34
+64,Jonas  Svensson,,Atlas Copco Rocker Drillers,22:34
+66,Robin  Andersson,1990,"Relacom AB, Örebro (Lag 1)",22:34
+67,Andreas  Östlund,,ÖLIT1,22:36
+68,Hans  Wirén,,,22:37
+69,Robin  Dalqvist,1986,Örebro,22:39
+70,Patrik  Swens,,Kumla Parken 2,22:44
+71,Stefan  Sager,,SiteVision lag 1,22:48
+72,Nermin  Pamuk,,Team Fortum 2,22:52
+73,Petter  Runesson,,ÖBO Runners 4,22:56
+74,Daniel  Cevér,1995,Ericsson lag Tolkis,23:03
+75,Henric  Bergvall,,,23:06
+76,Kalle  Forsberg,,,23:07
+77,Markus  Åström,1987,Örebro,23:07
+78,Oscar  Carlsson,,ÖSK Bandy p -99,23:08
+79,Kjell  Holmgren,,Ericsson Lag5,23:12
+80,Lage  Johnson,,Bofors Fritid Lag 1,23:14
+81,Anders  Jansson,,Ericcson Lag11,23:17
+82,Mikael  Norstedt,1968,TDC Sverige AB lag 1,23:18
+83,Mats  Rönnlund,,Relacom LGR,23:26
+84,Andreas  Brosten,1979,CAB,23:27
+85,Erik  Jonsson,,Killevigge 2,23:33
+86,Tommy  Persson,,SKV lag 4,23:35
+87,Johan  Alden,1973,Kumla,23:36
+88,Lars  Tolkstam,1970,Ericsson lag Tolkis,23:37
+89,Tommy  Eriksson,,SKV lag 9,23:39
+90,Michael  Gustavsson,,ÖBO Runners 7,23:40
+91,David  Carlsson,2000,Rynninge IK P00-1,23:42
+92,Anonym,,Anonym,23:42
+93,Johnny  Andersson,,ÖBO Runners 7,23:42
+94,Anonym,,Anonym,23:44
+95,Alexander  Israelsson,1987,iGrönis,23:45
+96,Isak  Johansson,2000,Kusinerna Lanna/Skogaholm,23:48
+97,Andreas  Jansson,,Atlas Copco Rocker Drillers,23:49
+98,Tommy  Persson,1953,"Relacom AB, Örebro (Lag 1)",23:51
+99,Peter  Rasch,1970,,23:52
+100,Thomas  Wiborg,,Swedish connection + groupies,23:55
+101,Göran  Larsson,,Sakab personalförening 1,23:56
+102,Oskar  Jonsson,1975,Länstrafiken linje 2,23:58
+102,Robert  Sandström,1977,Örebro Sotarn 2,23:58
+104,Anders  From,1972,,24:00
+105,Johan  Fransson,,Adolfsberg Vårdcentral 1,24:05
+106,Nedim  Prguda,,Atlas Copco SDE-Team,24:06
+107,Joel  Nilzon,,Schneider 1,24:06
+108,Anders  Fredriksson,1959,"Relacom AB, Örebro (Lag 3)",24:10
+109,Hans-Olof  Calsén,,ÖLL Lag 23 Med Tek,24:11
+110,Thomas  Eriksson,,ÖLIT1,24:12
+111,Peter  Johansson,1967,Esswege Fastigheter 1,24:13
+112,Anders  Hamrén,1981,Örebro,24:15
+113,Ronnie  Pettersson,,MERITOR 1,24:16
+114,Petter  Thernell,2000,Rynninge IK P00-1,24:17
+115,Gustav  Fälldin,1999,"Domarevägen, Ludvika",24:17
+116,Stefan  Skytt,1965,Östansjö SK 1,24:17
+117,Efteranmälan,,,24:19
+118,Oskar  Sjöholm,,Atlas Copco Team BB,24:24
+119,Magnus  Karlsson,1966,"Relacom AB, Örebro (Lag 3)",24:25
+120,Jesper  Granath,1974,Handelskamraterna,24:28
+121,Tommy  Andersson,,ÖBO Runners 8,24:29
+122,Mikael  Tagelius,,Atlas Copco D-flödet,24:29
+123,Anders  Jansson,,Reningsverket Tekniska förvalt,24:33
+124,Kent  Lyckesten,,Lag 1,24:34
+125,Andreas  Skyman,,Team Nya Åkeriet 3,24:36
+126,Jan  Andersson,1962,Kristinehamn,24:36
+127,Anders  Kinnander,,ÖLL Lag 31 Transport,24:37
+128,Simon  Reuter,1983,kardiologen 1,24:40
+129,Gizmo  Holmström,1965,Nobina2,24:40
+130,Boris  Kovacic,,ÖLL Lag 34 Upphandling,24:44
+131,Jens  Thörnqvist,1970,Rynninge IK P00-2,24:45
+132,Peter  Björklund,,Samhällsmedicin 1,24:45
+133,Gustaf  Olsson,1982,Byborna,24:45
+134,Jesper  Ek,,ÖLL Lag 27 Park2,24:49
+135,Jonas  Lindholm,,SAKAB AB,24:49
+136,Andreas  Tranderyd,1990,Kumla,24:51
+137,Anders  Dahl,,NCC Lag 1,24:51
+138,David  Svensson,1997,Kumla,24:53
+139,Gunnar  Ingberg,1954,ScandFibre Logistics 4,24:55
+140,Kent  Johansson,1968,Östansjö SK 1,24:56
+141,Hans  Adolfsson,,ÖBO Runners 4,24:57
+142,Magnus  Everö,1978,,24:57
+143,Anders  Blåberg,1958,Evangeliska Frikyrkan,24:59
+144,Anders  Busk,1962,Grythyttan,25:00
+145,Mats  Cevér,1962,Ericsson lag Tolkis,25:03
+146,Max  Canderyd,2000,Rynninge IK P00-2,25:04
+147,Erik  Blom,,Kumla Kommun,25:06
+148,Lars  Andersson,,Fjugesta,25:08
+149,Magnus  Walther,1981,Infektionskliniken 1,25:09
+150,Niklas  Wikström,,Från a till å,25:11
+151,Anonym,,Anonym,25:12
+152,Tomas  Hedgren,1985,Förstutsistin,25:13
+153,Kennet  Ahlbom,,ÖBO Runners 6,25:13
+154,Anders  Risberg,1957,Tillväxtverket lag 1,25:20
+154,Ola  Bülow,,ÖLL Lag 26 Park1,25:20
+156,Hamo  Prguda,,Atlas Copco Matarlöpare,25:25
+157,William  Thörnqvist,2000,Rynninge IK P00-2,25:25
+158,Bengt Åke  Hagberg,1956,Posten Hallsberg,25:27
+159,Rolf  Österlund,,Atlas Copco 4,25:28
+160,Kennet  Backlund,1959,Emhart Glass Sweden AB,25:30
+161,Jan  Dahlkvist,,NCC Lag 2,25:34
+162,Kent  Lundqvist,1951,Nobina1,25:35
+163,Stefan  Wennerberg,,Atlas Copco Matarlöpare,25:36
+164,Peter  Widlund,1958,E.ON Gnistan lag 1,25:37
+165,Tommy  Manderstedt,,MERITOR 1,25:37
+166,Mats  Karlsson,1958,Euromaint 1,25:39
+167,Jens  Trifing,1980,Byborna,25:40
+168,Sebastian  Stotzer,1988,ScandFibre Logistics 4,25:41
+169,per-anders  ekman,1962,nora,25:42
+170,Jonas  Thörnqvist,2002,Rynninge IK P00-2,25:45
+171,Håkan  Lindh,,Euromaint 6,25:46
+172,Jimmy  Elseus,,Euromaint 6,25:47
+173,Joakim  Öhrman,1981,Kumla tekniska elit 4,25:48
+174,Christian  Handberg,,Atlas Copco SAQ,25:49
+175,Anonym,,Anonym,25:50
+176,Johan  Jelgert,1978,Sandvik R&D Nora,25:51
+177,Filip  Crantz,2001,örebro,25:53
+178,Urban  Sternefors,1960,,25:55
+179,Adam  Rosenberg,2000,Team naturel,25:57
+180,Christer  Björkman,1957,Lesjöfors Jogging,26:00
+181,William  Wickholm,1998,Activa,26:01
+182,Peter  Lindberg,,ÖBO Runners 8,26:03
+183,Håkan  Nyberg,1952,Örebro,26:05
+184,Pär  Hjulström,,Fired Up,26:05
+185,Holger  Bergengren,2002,Örebro,26:07
+186,Brasse  Reinemo,1953,Posten Hallsberg,26:10
+187,Leif  Axell,,ÖLIT1,26:11
+188,Mats  Andersson,,ÖBO Runners 6,26:13
+189,Fredrik  Strömberg,,ÖLL Lag 31 Transport,26:13
+190,Daniel  Jonsson,,Atlas Copco MRS SDE No1 Provid,26:18
+191,Håkan  Lindh,,,26:18
+192,Morgan  Björn,,BAE Systems Red,26:19
+193,Douglas  Lindqvist,,ÖREBRO,26:19
+194,Tommy  Jansson,,BAE Systems Red,26:19
+195,Johan  Kraft,,ÖLL Lag 26 Park1,26:21
+196,Jerker  Gyllin,1979,Kryo,26:21
+197,Stefan  Karlsson,,Atlas Copco Matarlöpare,26:22
+198,Anders  Broström,1984,Örebro,26:23
+199,Håkan  Vitalis,1965,Orbion Consulting Lag 2,26:24
+200,Matthias  Köhler,1972,Karlskoga,26:24
+201,Emil  Andersson,1992,Kristinehamn,26:25
+202,Håkan  Carlsson,1965,Rynninge IK P00-1,26:27
+203,Esa  Koski,,Emba laget 4,26:27
+204,Oskar  Zetterlund,1998,"Domarevägen, Ludvika",26:29
+205,Tomas  Karlsson,,Heds IF mix,26:31
+205,Tomaz  Pellmyr,1954,,26:31
+207,Sebastian  Valbrand,,Örebro,26:32
+208,Hans  Nordin,,AFC,26:32
+208,Christian  Tersmeden,1971,Samhall Lag 4,26:32
+210,Fredrik  Persson,,Bofors Fritid Lag 5,26:33
+211,Anders  Carlsson/Eklund,,Arbetsförmedlingen 2,26:34
+212,Fredrik  Ek,1980,Nobina1,26:34
+213,Johan  Thörnberg,,Sigma IT Runners 3,26:37
+213,Ba-Vu  Ngyuen,,Cambrex 1,26:37
+215,Michael  Spets,1966,Orbion Consulting Lag 2,26:38
+216,Håkan  Granqvist,1983,Förstutsistin,26:39
+217,David  Hildingsson,1964,Örebro,26:39
+218,Charlie  Larsson,,Ahlsell AB Lag 25,26:40
+219,Ted  Eriksson,1988,"Relacom AB, Örebro (Lag 9)",26:41
+219,Johan  Löfgren,,SCB MET,26:41
+221,peter  Alfsson,,Ericsson Lag5,26:42
+222,Mikael  Hallberg,,Sakab personalförening 1,26:43
+223,Mikael  Andersson,1996,Örebro Sotarn 1,26:44
+223,Matti  Jokikokko,53,janne,26:44
+225,Anonym,,Anonym,26:45
+226,Tomas  Karlsson,1958,"Relacom AB, Örebro (Lag 3)",26:49
+227,Johan  Blohm,,NCC Lag 3,26:49
+228,Thomas  Jansson,1969,TDC Sverige AB lag 1,26:51
+229,Bernt  Andersson,,ÖBO Runners 7,26:52
+230,Joakim  Samuelsson,1971,Evangeliska Frikyrkan,26:52
+231,Ludvig  Eriksson,,Cambrex 5,26:53
+232,Jan-Olov  Andersson,1955,AT Fritid 1,27:00
+233,Abdu  Hassen,1966,Nobina1,27:02
+234,Bo  Allansson,1952,Kumla,27:04
+235,Kjell  Adolfsson,1958,"Relacom AB, Örebro (Lag 10)",27:04
+236,Hugo  Nilsson,1978,Örebro,27:06
+237,Tomas  Watz,,Kumla,27:07
+238,Lennart  Vinefur,1967,Kjell & compani,27:07
+239,Sixten  Langell,,LTFast Eklv,27:09
+240,Per  Karlsson,1967,Kumla,27:10
+241,Jimmy  Järvinen,1974,Kjell & compani,27:10
+242,Kawa  Parwana,,Örebro,27:14
+243,Jacob  Thyberg,2002,Fotbolls laget HIK,27:22
+244,Magnus  Trandem,1965,Orbion Consulting Lag 3,27:25
+245,Per  Linnerblad,1979,Örebro,27:26
+246,Andreas  Håfström,1976,Kil,27:28
+247,Mikael  Granath,1966,SAAB Arboga5,27:30
+248,Marco  Crantz,1976,Örebro,27:31
+249,Bengt  Björndahl,,ÖBO Runners 6,27:31
+250,Kenneth  Israelsson,1952,Danfo Lag 2,27:32
+251,Niclas  Gustafsson,1991,"Relacom AB, Karlstad (Lag 6)",27:33
+252,Anonym,,Anonym,27:33
+252,Daniel  Kopecky,,,27:33
+254,Björn  Edström,,,27:34
+255,Oscar  Ericson,,MOBIL,27:35
+256,Markus  Bagge,,Atlas Copco Systemet i Focus,27:38
+257,Alf  Klockare,,ÖLL Lag 5,27:39
+258,Niklas  Lindgren,,Ahlsell AB Lag 23,27:40
+259,-  -,,Sigma IT Runners 3,27:41
+260,David  Säflund,,Atlas Copco 5,27:43
+261,Lars  Karlkvist,1985,Karlskoga,27:44
+262,Erik  Andersson,,Atlas Copco 1,27:45
+263,Eric  Andersson,1984,Löparna,27:48
+264,Mikael  Pettersson,1967,Orbion Consulting Lag 3,27:49
+265,Björn  Fälldin,1966,"Domarevägen, Ludvika",27:49
+266,Fredrik  Lindéus,,VAP2,27:51
+267,Niels  Lindgren,2000,Team Bananerna,27:52
+268,Mikael  Renström,,Korsnäs Frövi korpförening 4,27:52
+269,Daniel  Widegren,1978,SCB - Snabbast Charmigast Bäst,27:53
+270,Mikael  Magnusson,,Kumla Parken 2,27:54
+271,Lars  Gunnarsson,1962,Korsnäs Frövi korpförening 2,27:55
+272,Jonas  Mörk,,ÖLL Lag 27 Park2,27:57
+273,Fredik  Vinefur,1994,Kjell & compani,27:58
+274,Stefan  Larsson,,Miljökontorets herrar,27:59
+275,Mattias  Eriksson,,Atlas Copco MRS SDE No1 Provid,28:02
+276,Greger  Frisén,,Ahlsell AB Lag 21,28:02
+277,Per  Westholm,,Atlas Copco Team Byggare Bob,28:03
+278,Johan  Anderberg,1974,örebro,28:03
+279,Erik  Andersson,1977,,28:04
+280,Markus  Holm,1978,Emhart Glass Sweden AB,28:04
+281,Peter  Ström,,Team Fortum 2,28:06
+282,Eric  Edlund,,SEB IT 1,28:09
+283,Mersad  Veskovic,,Recipharm,28:10
+284,Mifail  Qupevaj,,Atlas Copco D-flödet,28:11
+285,Göte  Andersson,1942,Lesjöfors Jogging,28:12
+286,Michael  Härdstedt,,CAB,28:13
+286,Tomas  Johansson,1977,Husqvarna 2,28:13
+288,Bertil  Järnström,,SKV lag 7,28:15
+289,Erik  Trygg,,ÖLIT2,28:16
+290,Berhane  Asfaw,,Team Jules Hoffmann,28:17
+291,Roland  Zetterlund,,SKV lag 1,28:18
+292,Rasmus  Bergsten,1993,Löparna,28:18
+293,Bengt-Göran  Johansson,,Tornet,28:19
+294,Ulf  Henriksson,,Tornet,28:25
+295,Robert  Eriksson,,Atlas Copco PT Lag 2,28:27
+296,Urban  Appelquist,1963,Örebro,28:29
+297,Alf  Eliasson,1957,Gaddarna 2,28:29
+298,Robert  Forsbacka,,,28:29
+299,Lars-Erik  Wigh,1952,Hjorts industrilackering,28:29
+299,Dan  Leandersson,,Vårdsystem 1,28:29
+301,Markus  Kihlgren,,ÖLL Lag 23 Med Tek,28:30
+302,Ola  Sjöstedt,1966,Danfo Lag 2,28:31
+303,Johan  Gunnarsson,1977,Saras lag,28:33
+304,Roland  Rohde,1948,Fellingsbro,28:34
+305,Christer  Norefors,,,28:36
+306,Peter  Leiner,,SEB IT 1,28:41
+307,Per  Ljungström,1944,KARLSKOGA,28:42
+308,Andreas  Hammarbäck,,ÖBO Runners 2,28:42
+309,Kjell  Andersson,1957,"Relacom AB, Örebro (Lag 10)",28:42
+310,Hans  Matsman,1949,Länsgårdens springare,28:42
+311,Jonas  H Pettersson,,Atlas Copco UTMS,28:44
+312,Martin  Blomgren,1992,"Relacom AB, Örebro (Lag 3)",28:45
+313,Peter  Gunnarsson,,SEB IT 1,28:46
+314,Olav  Kvist,,Atlas Copco Super Mario & Co,28:46
+315,Robert  Cellen,,Atlas Copco SAQ,28:48
+316,Thomas  Ragnarsson,,Öster joggarna,28:49
+317,Jörgen  Lööw,,,28:50
+318,Torbjörn  Arvidson,,Lag e-team,28:51
+319,Johan  Kjellin,,ÖBO Runners 6,28:53
+320,Pablo  Basualdo,,SKV lag 4,28:54
+321,Eiwar  Gebrselassie Jansson,1955,Team Fortum 2,28:55
+322,Jonas  Engwall,,Medgången,28:57
+323,Anonym,,Anonym,28:57
+324,Patik  Berglund,,TDC Sverige AB lag 2,28:58
+325,Anders  Hermansson,1969,TDC Sverige AB lag 2,29:01
+326,Kristofer  Larsson,,Violen,29:04
+326,Bertil  Ringqvist,1949,Kumlas tekniska elit lag 1,29:04
+328,Benjamin  Eriksson,1977,Länstrafiken linje 4,29:04
+329,Morgan  Eriksson,1957,Orbion Consulting Lag 3,29:06
+330,Thomas  Johansson,1956,Matildas Gäng,29:07
+331,Patrik  Härd,,Atlas Copco 7,29:08
+332,Henrik  Bergsten,,Linde lag 2,29:09
+333,Anders  Trygg,,Trafikverket 2,29:10
+334,Mattias  Kättström,,NCC Lag 2,29:11
+334,Josef  Wahlström,,Ahlsell AB Lag 11,29:11
+336,Anders  Olsson,,Team Nya Åkeriet 2,29:12
+337,Mikael  Gullberg,1974,Lindesberg,29:15
+337,Anders  Österberg,,Sakab personalförening 1,29:15
+339,Anonym,,Anonym,29:18
+340,Carl-Fredrik  Arnelund,1966,Gaddarna 1,29:18
+341,Lars-Göran  Karlsson,1952,Örebro,29:19
+342,Tobias  Andersson,,Jennys gäng 3,29:19
+343,Anonym,,Anonym,29:20
+344,Joakim  Blom,2001,Nora Runners,29:21
+345,Mats  Larsson,1962,"Relacom AB, Karlstad (Lag 6)",29:22
+346,Fransisco  Lindoro,,Atlas Copco Batlas Bopco 2,29:26
+347,Max  Larsson,2001,Örebro,29:27
+348,Staffan  Jonsson,,NCC Lag 3,29:27
+349,Henrik  Svennberg,,Cambrex 3,29:29
+350,Anders  Johansson,,Cambrex 8,29:31
+351,Joacim  Nilsson,,Anders Sportfoto 1 herrar,29:32
+352,Hans  Jansson,1952,"Relacom AB, Karlstad (Lag 6)",29:33
+353,Tommy  Öhlin,1954,Eltel Runers,29:36
+354,Jan  Green,1954,Eltel Runers,29:37
+355,Fredrik  Viktorsson,,Team RPK 1,29:39
+356,Thomas  Edgren,,,29:40
+357,Peter  Lindqvist,,ÖBO Runners 5,29:40
+358,Ulf  Wasberg,1959,Hjorts industrilackering,29:41
+359,Peter  Gustafsson,1971,,29:42
+360,Patrik  Simonsson,1971,stora mellösa,29:44
+361,Anna  Andersson,,Atlas Copco SAQ,29:45
+362,Pontus  Amundsson,,Team Nya Åkeriet 1,29:47
+363,Mikael  Palm,1984,,29:48
+364,Tobias  Edlund,,Atlas Copco SDE-Team,29:49
+365,Mathias  Liljebergh,1992,Örebro,29:50
+366,Robin  Karlsson,,Atlas Copco SDE PROJ TEAM,29:52
+367,Morgan  Lundström,1972,volvo,29:55
+368,Hampus  Kjell,2000,Örebro,29:56
+369,Abdul  Mannan,,Lab 9,29:56
+370,Marcus  Führ,2001,Örebro,29:56
+371,Ola  Westin,1971,Kryo,29:57
+372,Karl-Johan  Thuresson,,Kumla Parken 2,29:58
+373,Klas  Håkansson,1977,Ögonkliniken 1,29:58
+374,Björn  Emmerik,,ÖLL Lag 36 Kundtjänst,29:59
+375,Stefan  Josefsson,,Hjärtsalget 2,30:01
+376,Daniel  Bors,,Drillcon,30:03
+377,Johan  Bergman,1966,Elgesta,30:04
+378,Timo  Hentunen,,Lindesbergarna,30:04
+379,Daniel  Hammarsten,1978,TDC Sverige AB lag 2,30:05
+380,Kent  Ragnarsson,1964,SAAB Arboga5,30:05
+381,Stefan  Berg,,SCB MET,30:06
+382,Sören  Wester,1946,AT Fritid 2,30:06
+383,Andreas  Jönsson,1979,,30:09
+384,Joakim  Sjöberg,,ÖBO Runners 5,30:12
+385,Rickard  Hammer,,Atlas Copco SDE PROJ TEAM,30:13
+386,Murat  Alp,,Sigma IT Runners 3,30:15
+387,Oscar  Perryd,2001,Örebro,30:15
+388,Roger  Skantz,1973,Team Frövi Elbyrå,30:15
+388,Tomas  Perryd,1967,Örebro,30:15
+390,David  Olofsson,,Tolkcentralen,30:18
+391,Paul  Holland,,mcbumblehead AB,30:18
+392,Jan  Lennell,1961,Lung & ro 1,30:23
+393,Björn  Johansson,1976,Matildas Gäng,30:25
+394,Mats  Olsson,,VAP2,30:28
+395,Jens  Larsson,,Jennys gäng 3,30:28
+396,Henrik  Adolfsson,,Linde lag 2,30:29
+397,Ulf  Nilsson,,Atlas Copco Running Rabbits,30:30
+398,Johan  Hårstad,1980,Team Potten,30:35
+399,Tommy  Smedberg,1971,Länstrafiken linje 2,30:35
+400,Sven  Augustsson,1980,IHM - Inte Helt Medvetet val,30:38
+401,Jonas  Wing,1964,E.ON Gnistan lag 1,30:38
+402,Jimmy  Strömberg,1969,Löparna,30:39
+402,Tom  Larsson,,Ahlsell AB Lag 5,30:39
+404,Daniell  Andersson,,Ahlsell AB Lag 20,30:40
+405,Johan  Carlsson,,,30:40
+406,Åke  Söderberg,1965,"Relacom AB, Örebro (Lag 6)",30:43
+407,Daniel  Dahlström,,Team RPK 2,30:43
+408,Andreas  Olofsson,,,30:44
+409,Pontus  Nelander,,Atlas Copco Running Rabbits,30:48
+410,Per  Bornedahl,1956,Hallsberg,30:49
+411,Oscar  BERGSTRÖM,,,30:49
+412,Björn  Hagström,,,30:49
+413,Mikael  Ljunggren,1963,"Relacom AB, Örebro (Lag 5)",30:52
+414,Åke  Kihlberg,,Capio Cårdcentral Lekeberg 1,30:53
+415,Kjell  Nilsson,1944,Kjell & compani,30:54
+416,Mats  Röckner,,Strömsund,30:55
+417,Henrik  Gunnarsson,1973,TDC Sverige AB lag 2,30:57
+418,Walaa  Mohammed,1969,Kumlas tekniska elit 3,31:03
+419,Isac  Sellberg,2001,örebro,31:04
+420,Daniel  Evaldsson,1986,Kryo,31:04
+421,Lars-Erik  Odhe,,Euromaint 3,31:05
+422,Tommy  Freijd,1946,Matildas Gäng,31:07
+423,Rickard  Rådman,,Atlas Copco SDE PROJ TEAM,31:13
+424,Jonny  Ahlberg§,,Örebro,31:15
+425,Bertil  Wahlqvist,1947,Örebro,31:16
+426,Matz  Rysjö,,Länstrafiken linje 3,31:17
+427,Lennart  Löf,,SOSFS 2009:29,31:17
+428,Sven-Erik  Sandvall,,Örebro,31:18
+429,Martin  Thernell,1964,Rynninge IK P00-1,31:18
+430,Kjell  Jonsson,1958,Väse,31:19
+431,Åke  Eriksson,,ÖBO Runners 6,31:20
+432,Alistion  Ningenza,,BMB 1,31:21
+433,Johan  Henriksson,,Ericsson Lag5,31:21
+434,Lennart  Karlsson,,ÖLIT2,31:23
+435,Roger  Larsson,,ÖBO Runners 3,31:27
+436,Anonym,,Anonym,31:39
+437,Thed  Nilsson,1987,Luftkontroll Hoist Energy 2,31:44
+438,Khalid  Mammadov,,Hjärtsalget 2,31:45
+439,Patrik  Sandelin,,,31:48
+440,Anders  Person,,Atlas Copco Rocker Drillers,31:49
+441,Niklas  Litzell,,Ahlsell AB Lag 20,31:51
+441,Mats  Berger,,Atlas Copco SDE PROJ TEAM,31:51
+443,Johan  Sölveling,,Atlas Copco SAQ,31:53
+444,Jonas  Wilhelmsson,1966,E.ON Gnistan lag 2,31:54
+445,Emil  Hildingsson,1998,Örebro,31:55
+446,Robert  Pettersson,,volvo,31:57
+447,Oskar  Jonsson,1997,Väse,31:57
+447,Fredrik  Fernberg,,Linde lag 2,31:57
+449,Agne  Eriksson,1948,SCB med tryck,31:59
+450,Tero  Kinnunen,1961,Örebro,32:00
+451,Bo  Persson,1954,Team Bosse P,32:01
+452,Per  Jägerström,1968,PAMIM,32:04
+452,Mikael  Sandberg,,SiteVision lag 1,32:04
+454,Hugo  Sjödin-Önell,2002,Örebro,32:05
+455,Anonym,,Anonym,32:08
+456,Benjamin  Tärnqvist,,Euromaint 3,32:11
+457,Sören  Johansson,1963,"Relacom AB, Örebro (Lag 5)",32:12
+458,Jan-Olof  Carlsson,1949,Ögonkliniken 2,32:13
+459,Lars  Walfridsson,1968,Ögonkliniken 3,32:13
+460,Mikael  Melin,,VAP3,32:16
+461,Pelle  Elofsson,,Jennys gäng 1,32:16
+462,Anonym,,Anonym,32:18
+462,Niclas  Hedström,1971,Örebro,32:18
+464,Thomas  Persson,,Maxi Örebro 2,32:22
+465,Dan  Hultin,,Atlas Copco,32:23
+466,William  Djupström,2000,Tysslinge runners,32:24
+467,Jimmy  Andersson,1983,Luftkontroll Hoist Energy 2,32:25
+467,Oscar  Runesson,1998,,32:25
+469,Magnus  Jägerström,1967,PAMIM,32:26
+470,Axel  Narving,2002,Örebro,32:27
+471,Mikael  Adervall,,Atlas Copco UTMS,32:28
+472,Johan  Ahlberg,1967,Kryo,32:29
+473,Robert  Jakobsson,,FMLOG Lag 4,32:30
+474,Dan  Gunnarsson,,Cambrex 4,32:30
+475,Henrik  Friberg,,Cambrex 7,32:31
+476,Jan  Gustafsson,,Atlas Copco UTMS,32:32
+477,Eric  Poignant,,Klimatkontoret Örebro kommun,32:34
+478,Torbjörn  Dahlqvist,,Atlas Copco Prestigelösa,32:34
+479,Kimmo  Lindgren,1967,Fellingsbro,32:39
+480,Johan  Bursell,,Vildsvinen,32:40
+481,Tobias  Lind,1977,"Relacom AB, Örebro (Lag 10)",32:41
+482,Steven  Johansson,,Örebro,32:41
+483,Henrik  Virtanen,,Anders Sportfoto 1 herrar,32:44
+484,Lennart  Davidsson,,Lag Olaus Petri VC,32:46
+485,Göran  Eriksson,1953,SCB med tryck,32:48
+485,Mikael  Henriksson,,,32:48
+487,Mario  Santillán,,Atlas Copco Super Mario & Co,32:49
+487,Lukas  Palovsky,,,32:49
+489,Torgny  Erkstam,1969,Luftkontroll Hoist Energy 2,32:49
+490,Hannes  Andersson,1999,Tysslinge runners,32:52
+491,Mikael  Eklund,,Team Nya Åkeriet 1,32:52
+492,Kim  Edlund,1985,"Relacom AB, Karlstad (Lag 6)",32:53
+493,Marcus  Zetterman,,Kostavd Jogga/spring,32:54
+494,Bengt  Hellmark,,Lab 2,32:57
+495,Alf  Sundius,1955,Eltel Runers,33:00
+496,Stellan  Dunderberg,,Emba laget 4,33:02
+497,Åke  Melin,,Euromaint 5,33:05
+498,Danilo  Barrera,,Arbetsförmedlingen 2,33:07
+499,Tommi  Jansson,1959,Q Fotolab,33:09
+500,Peter  Andersson,1966,Örebro,33:10
+501,Oskar  Borglund,,Jennys gäng 1,33:10
+502,Sebastian  Lidberg,1999,Fotbolls laget HIK,33:12
+503,Jan  Kånåhåls,,Lag e-team,33:13
+504,Göran  Nilsson,1970,volvo,33:13
+505,Jonas  Malmi,,ÖBO Runners 8,33:14
+506,Yim  Ståhl,,,33:15
+507,Per  Olsson,,ÖBO Runners 8,33:15
+508,JAN  KARLSSON,1963,KARLSKOGA,33:16
+508,Harry  Matteusson,1949,Gubbar,33:16
+510,Anonym,,Anonym,33:20
+511,Hans  Fredlund,,Medicinsk Enhet,33:20
+512,Jan-Ove  Lämgren,56,janne,33:21
+513,Örjan  Brus,,Lag e-team,33:32
+514,Thomas  Gustavsson,1966,,33:35
+515,Patrik  Norrström,,VAP3,33:38
+516,Johan  Bonde,1982,Karlskoga,33:38
+517,Oskar  Ekvall,,Team Nya Åkeriet 1,33:39
+518,Jan  Larsson,1960,AT Fritid 1,33:39
+519,Staffan  Svedin,,SEB IT 1,33:40
+520,Viktor  Lundgren,1994,,33:42
+521,Nicklas  Gåse,,,33:44
+522,Torbjörn  Ohlsson,,ÖLL Lag 5,33:44
+523,Michael  Simonsson,,Esswege Fastigheter 4,33:55
+524,Emil  Bergquist,1986,Luftkontroll Hoist Energy 2,33:58
+525,Stefan  Eriksson,1963,Posten Hallsberg,34:05
+526,Anders  Andersson,,ÖLL Lag 12,34:07
+527,Erik  Rosenberg,,Ahlsell AB Lag 11,34:12
+528,John  Hörstedt,,,34:16
+529,Jörgen  Sörkvist,1969,,34:19
+530,Peter  Vogler,1962,,34:27
+531,Anonym,,Anonym,34:28
+532,Axel  Brandt,2000,Örebro,34:29
+533,Rickard  Malteberg,,SKV lag 6,34:30
+534,David  Runesson,2000,,34:32
+535,Magnus  Brandt,1972,Örebro,34:32
+536,Dan  Gustafsson,1965,TDC Sverige AB lag 1,34:37
+537,Melker  Bååth,2002,Örebro,34:39
+538,Staffan  Wikstedt,1973,Örebro,34:43
+539,Mikael  Godlund,1963,Born to run,34:52
+540,Krister  Åberg,,Från a till å,34:54
+541,Ervin  Nordstrand,,Komvux Örebro lag 1,34:56
+542,Lars-Erik  Sundberg,1956,Produktma Lag 1,34:57
+543,Lukas  Eriksson,,,35:02
+544,Björn  Norgren,1980,Kista,35:03
+545,Jan  Gustavsson,1965,Sniglarna,35:03
+546,Håkan  Persson,1965,Posten logistik Riks,35:04
+547,Andreas  Eriksson,,Kumla Parken 2,35:05
+548,Ulf  Högberg,1946,Cambrex 3,35:08
+549,Robert  Bergman,,Team Nya Åkeriet 3,35:09
+550,Christer  Johansson,,Emba Laget 1,35:10
+551,Daniel  Nagy,,BAE Systems Green,35:12
+552,Sudhir  Swarnkar,,Atlas Copco 8,35:15
+553,Erik  Sjöstedt,,Vildsvinen,35:16
+554,André  Schwenk,,Team RPK 3,35:16
+555,Nils  Gustavsson,1983,Försäkringskassan 2,35:18
+556,Bengt  Runsten,1966,Orbion Consulting Lag 3,35:20
+557,Mattias  Grimborg,1970,AT Fritid 2,35:24
+558,Anders  Eriksson,1961,Husqvarna 2,35:24
+559,Daniel  Palmqvist,,Ahlsell AB Lag 25,35:27
+559,Mattias  Tingvall,1967,Kungsör,35:27
+561,Christer  Lagerstam,,Bofors Fritid Lag 4,35:36
+562,Anton  Karlsson,1998,,35:40
+563,Maroun  Asmar,1967,,35:41
+564,Jon  Sjödin-Önell,2000,Örebro,35:45
+565,Jan  Abrahamsson,1960,Abrahamsson4ever,36:06
+566,Erik  Abrahamsson,2000,Abrahamsson4ever,36:06
+567,Stefan  Enevad,1967,Tillväxtverket lag 1,36:07
+568,Johan  Rasmusson,,TEAM RAZZ,36:08
+569,Stig  Ruuth,,Bofors Fritid Lag 2,36:19
+570,Jan  Mossberg,56,janne,36:23
+571,Per  Nilsson,1967,,36:24
+572,christer  granath,1950,nora,36:30
+573,Sören  Bryngelsson,1966,Lottas kalvar,36:31
+574,Per-Erik  Johansson,1963,Tjällmo,36:37
+575,Roger  Ström,,Atlas Copco Systemet i Focus,36:38
+576,Anders  Möller,,Öster joggarna 1,36:48
+577,Per-Göran  Larsson,1952,"Relacom AB, Karlstad (Lag 6)",36:49
+578,Tomas  Graff,1971,"Relacom AB, Örebro (Lag 5)",36:57
+579,Christian  Hårstad,1958,Team Potten,37:05
+580,Lars  Leidö,1953,SAAB Arboga4,37:07
+581,Mikael  Ekholm,1963,SAAB Arboga4,37:09
+582,Johan  Köhler,1973,Elgesta,37:11
+583,Anonym,,Anonym,37:13
+584,Anders  Rosèn,1953,Posten logistik Riks,37:14
+585,Anonym,,Anonym,37:16
+586,Peter  Örnberg,,Schenker 1,37:20
+587,Karl-Erik  Jonsson,1953,Orbion Consulting Lag 3,37:22
+588,Ingvar  Björck,,SEB IT 1,37:23
+589,Sofia  Horvath,,,37:29
+590,Lars-Olov  Persson,,Munksjö Aspa Bruk AB 1,37:29
+591,Stefan  Angbäck,,Ahlsell AB Lag 10,37:30
+592,Robertino  Danielsson,,Ahlsell AB Lag 10,37:30
+593,Andreas  Widlund,,Kumla Parken 1,37:32
+594,Jerker  Lindgren,1962,Örebro,37:34
+595,C  Hiding,,,37:47
+596,Lennart  Kjellström,,Sakab personalförening 1,37:50
+597,Mats  Rensmo,,Kumla Parken 1,37:53
+598,Mahesh  Grampurohit,,Atlas Copco Rocker Drillers,37:56
+599,Allan  Eriksson,,Örebro,37:59
+600,Lars  Wounsch,,Euromaint 1,38:13
+601,Anders  Harker,,Anders Sportfoto 1 herrar,38:16
+602,Håkan  Hällgren,1967,6580,38:29
+603,Gabriel  Hussler,,,38:32
+604,Björn  Nordh,,GC Lag 2,38:34
+605,Pelle  Johansson,,,38:35
+606,Hans  Slätmo,,Euromaint 3,38:46
+607,Nicklas  Landmark,,Atlas Copco Systemet i Focus,38:48
+608,Sebastian  Oskarsson,1994,Östansjö SK 2,38:50
+609,Jan  Slomski,1960,Västerås,38:51
+610,Erik  Slomski,1961,Kumla,38:53
+611,Bertil  Borgencrantz,,Capio Läkargruppen 4,38:56
+612,Ronnie  Granath,,Kumla Parken 2,38:58
+613,Roland  Hjelm,1942,ÖREBRO,39:10
+614,Robert  Pettersson,1966,Köping,39:15
+615,Jarno  Kiviluoto,1975,Husqvarna 3,39:16
+616,Mats  Larsson,,Killevigge 2,39:34
+617,Lennart  Carlsson,1947,M1,39:46
+618,Leif  Karlsson,1954,Svetslopporna,39:47
+619,Jan  Lindberg,46,janne,40:06
+620,Bertil  Tryvén,,Sakab personalförening 2,40:27
+621,Roger  Nilsson,,,40:30
+622,Lars  Nilsson,1959,Sengångarna,40:35
+623,Anonym,,Anonym,40:49
+624,Mats  Eriksson,1958,"Relacom AB, Örebro (Lag 3)",41:23
+625,Kristoffer  Berg,,Atlas Copco Team BB,41:28
+626,Lars  Alexandersson,,Team Nya Åkeriet 3,41:41
+627,Patrik  Hagsten,,Team Nya Åkeriet 2,41:42
+628,Thomas  Rasmusson,1962,Team Blodpuddingarna,42:05
+629,Samuel  Eriksson,1938,Fjugesta Revisionsbyrå,42:08
+630,Per  Neander,,Capio Läkargruppen 3,42:16
+631,Nils-Erik  Pettersson,1901,Örebro,42:26
+632,Agne  Björck,1940,Gubbar,43:12
+633,Mikael  Dehlin,,Cambrex 2,43:18
+634,Amir  Lotfi,,Kostavd Jogga/spring,43:40
+635,Harald  Sandberg,41,janne,44:36
+636,Björn  Spjuth,,Munksjö Aspa Bruk AB 1,44:58
+637,Minh  Le Nguyen,,Euromaint 2,45:45
+638,Stefan  Helander,1956,Posten logistik Riks,45:55
+639,Jesper  Nordström,1979,Team Bosse P,46:01
+640,Kent  Nybäck,1962,SAAB Arboga4,46:01
+641,Martin  Nilsson,2002,Fjugesta Revisionsbyrå,46:46
+642,Ola  Lennbom,,Skebäcks vårdcentral,47:17
+643,Joakim  Eklund,,Team Nya Åkeriet 2,47:25
+644,Joel  Ruthström,,,47:27
+645,Stefan  Bergkvist,1964,SAAB Arboga5,47:45
+646,Harbi  Amir,,,48:32
+647,Christer  Thrygg,,Klosterbacken 8,48:42
+648,Eistein  Mitsem,,Kumla,48:45
+649,Per-Erik  Lundgren,1958,AT Fritid 2,48:53
+650,Stefan  Westh,1960,AT Fritid 2,48:54
+651,Claes  Lydell,,Från a till å,49:06
+652,Stefan  Svallin,1950,"Relacom AB, Örebro (Lag 5)",49:11
+653,Jörgen  Jönsson,1956,"Relacom AB, Örebro (Lag 9)",49:12
+654,Ove  Löfgren,,Recipharm,49:59
+655,Billy  Norén,,Schneider 2,50:20
+656,Allan  Anto,1954,Christina,50:24
+657,Jonas  Johansson,,Ahlsell AB Lag 16,50:31
+658,Pelle  Brolinson,,Språk och framtid lag 3,50:34
+659,Nbenny  Eriksson,,Ahlsell AB Lag 11,50:52
+660,Stefan  Wisell,,ÖLL Lag 32 Transport,51:02
+661,Gabriel  Lundsten,,ÖLL Lag 31 Transport,51:03
+662,John  Forsgren,,ÖLL Lag 32 Transport,51:03
+663,Tomas  Enock,1951,Cambrex 1,51:07
+664,Johan  Koinberg,,Jennys gäng 4,52:00
+665,Christian  Söderqvist,,Esswege Fastigheter 4,52:09
+666,Fredrik  Alenback,,MERITOR 1,52:22
+667,Fredrik  Persson,,Jennys gäng 4,52:33
+668,Anonym,,Anonym,53:13
+669,Torbjörn  Lindroos,1957,TMDJE,53:22
+670,Peter  Strand,1961,Posten logistik Riks,53:42
+671,Anders  Svensson,,Jennys gäng 4,54:18
+672,Sören  Tyresgård,,Jennys gäng 4,54:22
+673,Tony  Englund,1953,,55:21
+674,Puya  Alemirad,1988,kexens bästa,55:21
+675,Jesper  Pettersson,,Atlas Copco 4,55:29
+675,Rickard  Jakobsson,,Atlas Copco 6,55:29
+677,Efteranmälan,,,55:40
+678,Björn  Engström,1952,Tom,56:04
+679,Stellan  Flodman,,ÖBO Runners 2,56:26
+680,Henrik  Lord,1975,Team Frövi Elbyrå,56:39
+681,Christoffer  Rosén,,SKV lag 3,57:04
+682,Lars  Jacobsson,,SKV lag 3,57:06
+683,Kjell  Svensson,,Atlas Copco Team Byggare Bob,57:59
+684,Kalle  Norrström,,Rehab USÖ 2,58:48
+685,Torbjörn  Jansson,,Bergskraft Bergslagen AB,58:51
+686,Micael  Carlen,1970,Örebro Sotarn 2,1:00:29
+687,Ulf  Bengtsson,1957,Kumlas tekniska elit 2,1:00:45
+688,vakant  vakant,1989,Örebro Sotarn 3,1:01:07
+689,Sten-Åke  Nordin,1954,Trollkojans förskola,1:01:23
+690,Benny  Hansson,,ÖLIT1,1:01:50
+691,Jan-Åke  Fredriksson,1954,Örebro,1:02:46
+692,Sven-Åke  Samuelsson,,LTFast USÖ,1:02:58
+693,Efteranmälan,,,1:03:10
+694,Tommy  Funk,,Ahlsell AB Lag 5,1:03:13
+695,Torbjörn  Schölin,1954,"Relacom AB, Örebro (Lag 5)",1:03:22
+696,Anders  Öborn,1963,HB-klubben,1:03:24
+697,Anders  Häggström,,Rehab USÖ 2,1:04:14
+698,Daniel  Pyykkö,,SiteVision lag 1,1:04:23
+699,Annica  Fergusson,,SiteVision lag 2,1:04:24
+700,Karl  Eklöf,,SiteVision lag 1,1:04:25
+701,Yngve  Adsten,,SiteVision lag 2,1:04:25
+702,Fredrik  Bolinder,,Atlas Copco Batlas Bopco 2,1:05:06
+703,Anders  Sundin,1963,Samhall Lag 4,1:05:12
+704,Anonym,,Anonym,1:05:28
+705,Jonas  Wiklund,1979,Örebro,1:05:29
+706,Erik  Strömberg,,Kontorsrutin AB,1:06:23
+707,Bosse  Spåre,,Kontorsrutin AB,1:06:23
+708,Filip  Carlsson,,NCC Lag 5,1:06:50
+709,Hasse  Carlsson,,NCC Lag 1,1:06:56
+710,Robin  Gehlin,1993,Örebro,1:07:32
+711,Mattias  Fogelqvist,1991,Örebro,1:07:36
+712,Tommy  Friberg,1961,Örebro,1:07:38
+713,Christian  Nilsson,1976,Hudkliniken 3,1:07:41
+714,Ronny  Saxin,,Anders Sportfoto 1 herrar,1:10:12
+715,Jonas  Carlberg,,Sveaskolan 2,1:10:28
+716,Efteranmälan,,,1:10:41
+717,Christian  Lindblad,1995,Karlskoga Kung Fu,1:10:42
+718,Kim  Nolemo,1984,Karlskoga Kung Fu,1:10:43
+719,Rune  Karlsson,1932,Gubbar,1:12:03
+720,Ingemar  Karlsson,1963,Gubbar,1:12:03
