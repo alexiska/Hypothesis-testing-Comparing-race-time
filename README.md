@@ -21,5 +21,5 @@ P-value and confidence intervall have been used to evaluate the hypothesis. The 
 * Hypothesis 
 * Conclusion
 
-<B>NOTE</B> The formulas in jupyter notebook does not work in Github for some reason. In order to view the whole notebook properly, please paste my repo page in https://nbviewer.jupyter.org/ 
+<B>NOTE:</B> The formulas in jupyter notebook does not work in Github for some reason. In order to view the whole notebook properly, please paste my repo page in https://nbviewer.jupyter.org/ 
 
