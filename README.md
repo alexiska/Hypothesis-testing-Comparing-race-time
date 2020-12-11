@@ -12,6 +12,15 @@ Three hypothesis tests are performed with T-test for the means of two independen
 
 The null hypothesis is that the average time is equal and the alternative hypothesis is that they are not equal. The hypothesis calculation have been performed with python package scipy.stats and compared with handbook calculation to get a better understanding how the package works. P-values and confidence intervals have been used to evaluate the hypothesis. The results will also be presented graphically to have a visual understanding.
 
+![significance](/Pics/significance.png)
+
+### Python package 
+* Pandas 
+* Numpy 
+* Matplotlib 
+* Seaborn 
+* Scipy
+* Math
 
 
 ### Table of contents:
@@ -19,6 +28,7 @@ The null hypothesis is that the average time is equal and the alternative hypoth
 * Data cleaning and manipulation
 * Hypothesis 
 * Conclusion
+
 
 <B>NOTE:</B> The formulas in jupyter notebook does not work in Github for some reason. In order to view the whole notebook properly, please paste my repo page in https://nbviewer.jupyter.org/ 
 
